@@ -1,0 +1,36 @@
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.exe
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.deps.json
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.dll
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.pdb
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4.Form1.resources
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.dll
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\refint\Comp2211_A4_Q13.dll
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.pdb
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Comp2211_A4\Comp2211_A4\obj\Debug\net6.0-windows\ref\Comp2211_A4_Q13.dll
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.exe
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.deps.json
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.dll
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\bin\Debug\net6.0-windows\Comp2211_A4_Q13.pdb
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.Form1.resources
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.dll
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\refint\Comp2211_A4_Q13.dll
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.pdb
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\Comp2211_A4_Q13.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\TRUWinter 2023\COMP 2211\Assignments\BarbaraFriesen_Assignment_4_C#\Comp 2211_A4_Q13\Comp2211_A4\obj\Debug\net6.0-windows\ref\Comp2211_A4_Q13.dll
